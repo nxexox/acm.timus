@@ -3,3 +3,8 @@ __pycache__/
 *.log
 *.pyc
 
+python3
+python2
+venv
+
+AUTH
